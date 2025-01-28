@@ -17,3 +17,9 @@ Ter certeza de ter o __GIT__ instalado np PC e usar o _Github Desktop_.
 Vá até a pasta que você quer receber o repositório e faça:
 - Abra o CMD e digite: `git clone [link do projeto]`
 - Entre na pasta e digite no CMD : `npm install`
+
+
+
+## Como deletar um repositório
+- rd /s /q "nome_repositório"
+
