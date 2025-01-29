@@ -1,0 +1,6 @@
+.MenuMesmo{
+    background: #F0F0F0;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}

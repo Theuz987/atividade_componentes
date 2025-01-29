@@ -18,8 +18,9 @@ Vá até a pasta que você quer receber o repositório e faça:
 - Abra o CMD e digite: `git clone [link do projeto]`
 - Entre na pasta e digite no CMD : `npm install`
 
-
-
 ## Como deletar um repositório
-- rd /s /q "nome_repositório"
+- Abra o CMD e digite: rd /s /q "nome_repositório"
+
+## Como clonar o repositório do Github
+- Abra o CMD e digite: git clone link do projeto
 
